@@ -7,6 +7,7 @@
 ### :large_orange_diamond: Curso de Javascript Básico
 ### :large_blue_diamond: Curso de PHP Básico
 ### :large_blue_diamond: Curso de PHP Orientado a Objetos
+### :large_orange_diamond: Curso de Jquery Básico
 
  <img width="auto" src="https://github.com/PedroPadilhaPortella/Curso-Em-Video/blob/master/guana6.png">
 
