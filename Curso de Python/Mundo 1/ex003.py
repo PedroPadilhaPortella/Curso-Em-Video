@@ -1,0 +1,11 @@
+value = input("Digite algo:")
+
+print("Tipo: {}".format(type(value)))
+print("Numérico? {}".format(value.isnumeric()))
+print("Alfabético? {}".format(value.isalpha()))
+print("Alfanumérico? {}".format(value.isalnum()))
+print("Upper Case? {}".format(value.isupper()))
+print("Lower Case? {}".format(value.islower()))
+print("Só tem espaços? {}".format(value.isspace()))
+print("Capitalizado? {}".format(value.istitle()))
+print("Decimal? {}".format(value.isdecimal()))
