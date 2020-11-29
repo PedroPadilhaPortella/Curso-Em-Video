@@ -1,0 +1,6 @@
+Nome: Maria, idade: 45
+Nome: Daniel, idade: 12
+Nome: Edwin, idade: 21
+Nome: Boa, idade: 20
+Nome: Marcio, idade: 55
+Nome: Carlos, idade: 32
