@@ -52,3 +52,13 @@ def moeda(preco, moeda = 'R$'):
     :return: string
     """
     return f"{moeda}{preco:.2f}".replace('.', ',')
+
+def resumo(preco, taxaAumento = 10, taxaReducao = 50):
+    print('-'*30)
+    print("RESUMO DO VALOR".center(30))
+    print('-'*30)
+    print("Preco Analisado: {}".format(moeda(preco)))
+    print("Metade: {}".format(metade(preco, True)))
+    print("Dobro: {}".format(dobro(preco, True)))
+    print("Aumento em 10%: {}".format(aumentar(preco, taxaAumento, True))) 
+    print("Desconto de 50%: {}".format(diminuir(preco, taxaReducao, True)))
